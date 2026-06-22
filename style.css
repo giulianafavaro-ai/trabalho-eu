@@ -1,0 +1,20 @@
+h1{
+    color: rgba(249, 224, 59, 0.896);
+    background-color: rgba(65, 194, 205, 0.661);
+}
+body{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25zYTc4N3F1ZGR3aWxvZ3kxNnB2MTc2YWhiaHJxbHl3NnJmc2F0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0Zt7yuDULiy4ofmVD/giphy.gif");
+    /*background-color: rgb(165, 125, 218);*/
+    text-align:center;
+    background-size: 140PX 140PX;
+}
+
+img{
+    width: 500px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: rgba(170, 10, 106, 0.511);
+}
